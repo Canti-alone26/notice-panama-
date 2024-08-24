@@ -1,0 +1,22 @@
+body{
+    background-color: gainsboro;
+}
+
+.par{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
+}
+
+.ima{
+    margin: 20px 350px;
+}
+
+.par2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.ima2{
+    margin: 20px 350;
+}
